@@ -1,3 +1,9 @@
 .comment-part {
   margin: 10px;
+  border: 1px solid #43464e;
+  padding: 5px;
+  border-radius: 5px;
+  width: 300px;
+  height: 150px;
+  box-shadow: 2px 2px 5px rgba(34, 34, 34, 0.315);
 }
